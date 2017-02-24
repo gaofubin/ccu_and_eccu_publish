@@ -1,0 +1,8 @@
+# Logs
+logs
+*.log
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride

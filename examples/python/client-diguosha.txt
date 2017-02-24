@@ -1,0 +1,14 @@
+Client Information
+
+Name: diguosha
+Base URL: https://akab-3h5p5o2g7noocurm-klsdb7pbcavy6jc6.purge.akamaiapis.net/
+
+Access Tokens:
+
+    akab-zjyeozjc4ianqq7p-nqzpqttlzskv3vox
+
+
+Client Credentials:
+
+    Client token: akab-7kbese2qee25h6qs-ulfbtnrg3nti7qfw     Secret: 0FgWuFTjZIV2O4FlTJyeieG6zlQm+QKMjP6vNwCODjQ=
+

@@ -1,0 +1,9 @@
+[
+  {
+    "redirectURL": " /lap-band-update.html", 
+    "type": "erMatchRule", 
+    "name": "match-url", 
+    "matchURL": "/princess_polymath/?p=31", 
+    "statusCode": 301
+  }
+] 

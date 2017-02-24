@@ -1,0 +1,4 @@
+<testsuite tests="2">
+    <testcase classname="diagnostic_tools.php.output" name="dig"/>
+    <testcase classname="diagnostic_tools.py.output" name="dig"/>
+</testsuite>

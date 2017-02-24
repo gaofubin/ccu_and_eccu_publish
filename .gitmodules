@@ -1,0 +1,9 @@
+[submodule "apps/imaging-sample-ui"]
+	path = apps/imaging-sample-ui
+	url = https://github.com/akamai-open/imaging-sample-ui.git
+[submodule "apps/imaging-sample-viewers"]
+	path = apps/imaging-sample-viewers
+	url = https://github.com/akamai-open/imaging-sample-viewers
+[submodule "apps/papi-kickstart"]
+	path = apps/papi-kickstart
+	url = https://github.com/akamai-open/papi-kickstart

@@ -1,0 +1,12 @@
+===============================================================
+=  Welcome to the Akamai Docker Container for API Interaction =
+===============================================================
+=  To get started with this container, you'll need to set up  =
+=  credentials for the Akamai API system in Luna              =
+===============================================================
+=  Run the credentials generation script:                     =
+=  Akamai API Bootcamp >> gen_edgerc                          =
+=                                                             =
+=  This will create the correct credentials file for you in   =
+=  the root directory so you can play with the API commands.  =
+===============================================================
